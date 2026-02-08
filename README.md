@@ -2,6 +2,8 @@
 
 A script based on UnityPy to build a map of a given [PEAK](https://landfall.se/peak) level features.
 
+<img src="/level12.png" height=256 title="Example output" />
+
 ### Usage:
 ```console
 $ ./PeakPeek.py …/PEAK_Data/levelN
