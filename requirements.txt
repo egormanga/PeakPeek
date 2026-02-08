@@ -1,0 +1,3 @@
+euclid3 ~= 0.1
+pillow ~= 12.0
+UnityPy ~= 1.24
